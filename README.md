@@ -8,7 +8,7 @@
   <li>Adult age group (30-49) years is max contributing (~50%) </li>
   <li>Amazon,Flipkart and Myntra channels are max contributing (~80%)</li>
 </ol>
-<h3><b><u>
+<h3><b>
   Final conclusion to improve Clothing Store Sales:
-</u></b></h3>
+</b></h3>
 <h4>Target women customers of age group <b>(30-49)</b> living in <b>Maharashtra,Karnataka and Uttar Pradesh</b> by showing ads/offers/coupons available on <b>Amazon,Flipkart and Myntra</b></h4>
