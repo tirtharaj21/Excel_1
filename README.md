@@ -11,4 +11,4 @@
 <h3><b>
   Final conclusion to improve Clothing Store Sales:
 </b></h3>
-<h4>Target women customers of age group <b>(30-49)</b> living in <b>Maharashtra,Karnataka and Uttar Pradesh</b> by showing ads/offers/coupons available on <b>Amazon,Flipkart and Myntra</b></h4>
+<p>Target women customers of age group <b>(30-49)</b> living in <b>Maharashtra,Karnataka and Uttar Pradesh</b> by showing ads/offers/coupons available on <b>Amazon,Flipkart and Myntra</b></p>
